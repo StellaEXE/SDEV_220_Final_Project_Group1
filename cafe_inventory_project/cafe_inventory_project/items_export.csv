@@ -1,0 +1,7 @@
+itemID,name,price,categoryID,supplierID,currentStock,reorderLevel,reorderQty,partNumber
+1,Espresso Beans (1kg),16.5,2,1,8,5,6,ESP-1KG
+2,Milk (1L),1.2,2,1,12,8,12,MILK-1L
+3,Croissant,2.4,1,2,6,6,24,CROISSANT
+4,Sugar Packets (box),4.99,3,1,3,5,10,SUGAR-PKT
+5,Cups (100ct),6.99,3,1,15,10,10,CUPS-100
+6,milk 1l,2.0,2,1,0,5,10,MK-1L
